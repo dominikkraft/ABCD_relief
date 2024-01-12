@@ -1,6 +1,6 @@
 # ABCD_relief
 
-This repository stores code and analyses for the our recent commentary (*link will be updated shortly*) entitled 
+This repository stores code and analyses for our recent commentary (*link will be updated shortly*) entitled 
 
 > Removing scanner effects with a multivariate latent approach - a RELIEF for the ABCD imaging data? 
 
