@@ -12,7 +12,7 @@ This code was performed in RStudio (R version 4.2.3) and python (version 3.9.16)
 The following main packages were used
 - `neuroCombat version 1.0.13 in R` see ![NeuroCombat](https://github.com/Jfortin1/neuroCombat_Rpackage)
 - `RELIEF  version 0.1.0 in R` see ![RELIEF](https://github.com/junjypark/RELIEF)
-- `CovBat version 0.1.0 in R see ![CovBat](https://github.com/andy1764/CovBat_Harmonization)
+- `CovBat version 0.1.0 in R` see ![CovBat](https://github.com/andy1764/CovBat_Harmonization)
 - `skicit-learn version 1.3.2. in python`
 
 
