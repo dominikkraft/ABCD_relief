@@ -3,8 +3,9 @@
 This repository stores code and analyses for our recent commentary in ImagingNeuroscience entitled 
 
 > Removing scanner effects with a multivariate latent approach - a RELIEF for the ABCD imaging data?
->
-> Read the paper here: ![here](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00157/120595/Removing-scanner-effects-with-a-multivariate)
+
+[Read the paper here!](https://doi.org/10.1162/imag_a_00157)
+
 
 * This works builds upon Zhang et al (2023) and tests RELIEF´s performance in the ABCD study. 
 
